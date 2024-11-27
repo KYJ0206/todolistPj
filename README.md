@@ -1,3 +1,5 @@
+React ToDoList Project is a simple and intuitive task management application built using React. This project allows users to organize their daily tasks, prioritize activities, and maintain productivity through an interactive and responsive interface. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
